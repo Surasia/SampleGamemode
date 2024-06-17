@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?InfiniteVariantTool version="0.6.0.0"?>
+<LuaBundle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Game>HaloInfinite</Game>
+  <Scripts>
+    <HIUncompiledLuaScript>
+      <Name>tags\scripts\gamemodes\exampleParcel\exampleParcel.lua</Name>
+      <File>tags\scripts\gamemodes\exampleParcel\exampleParcel.lua</File>
+      <Unk0>3</Unk0>
+      <Checksum>17771001025080643702</Checksum>
+      <Unk1>0</Unk1>
+    </HIUncompiledLuaScript>
+    <HIUncompiledLuaScript>
+      <Name>tags\scripts\gamemodes\exampleParcel\exampleParcel_startup.lua</Name>
+      <File>tags\scripts\gamemodes\exampleParcel\exampleParcel_startup.lua</File>
+      <Unk0>3</Unk0>
+      <Checksum>17771001025080643702</Checksum>
+      <Unk1>0</Unk1>
+    </HIUncompiledLuaScript>
+    <HIUncompiledLuaScript>
+      <Name>tags\scripts\parcellibrary\GlobalParcels\roundbasedmpmodestartuphelper.lua</Name>
+      <File>tags\scripts\parcellibrary\GlobalParcels\roundbasedmpmodestartuphelper.lua</File>
+      <Unk0>3</Unk0>
+      <Checksum>17771001025080643702</Checksum>
+      <Unk1>0</Unk1>
+    </HIUncompiledLuaScript>
+  </Scripts>
+</LuaBundle>

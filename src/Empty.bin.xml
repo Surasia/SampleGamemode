@@ -1,0 +1,1554 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?InfiniteVariantTool version="0.6.0.0"?>
+<struct>
+  <list id="1" type="struct">
+    <struct>
+      <struct id="0">
+        <int32 id="0">2</int32>
+        <guid id="2">257a305e-4dd3-41f1-9824-dfe7e8bd59e1</guid>
+        <string id="3">Test</string>
+        <string id="4">Empty</string>
+        <int32 id="6">-1</int32>
+        <int32 id="7">-1</int32>
+        <int32 id="8">-1</int32>
+        <set id="11" type="int32">
+          <int32>0</int32>
+        </set>
+        <guid id="13">9de1da1c-03e6-4b47-a05a-e8aaa0855015</guid>
+        <string id="14">Test/Engine</string>
+      </struct>
+      <struct id="1">
+        <struct id="0">
+          <struct id="0" />
+          <struct id="1" />
+          <struct id="2" />
+          <struct id="3" />
+          <struct id="4" />
+          <struct id="5" />
+          <struct id="6" />
+          <struct id="7" />
+          <struct id="8" />
+          <struct id="9" />
+          <struct id="10">
+            <bool id="9">true</bool>
+          </struct>
+          <struct id="12">
+            <float id="1">5</float>
+            <set id="2" type="int32">
+              <int32>0</int32>
+              <int32>2</int32>
+              <int32>3</int32>
+              <int32>5</int32>
+            </set>
+            <float id="3">1</float>
+            <float id="4">0.25</float>
+          </struct>
+          <struct id="13" />
+          <struct id="14" />
+          <struct id="15" />
+        </struct>
+        <struct id="1" />
+        <struct id="2">
+          <set id="0" type="int32">
+            <int32>10</int32>
+            <int32>11</int32>
+            <int32>13</int32>
+          </set>
+          <int8 id="5">0</int8>
+          <int8 id="6">0</int8>
+          <list id="12" type="struct">
+            <struct>
+              <int32 id="0">1</int32>
+              <struct id="1">
+                <struct id="1" />
+              </struct>
+            </struct>
+          </list>
+          <struct id="13">
+            <struct id="0">
+              <struct id="1" />
+              <struct id="2" />
+              <struct id="3" />
+              <struct id="4" />
+              <struct id="5" />
+              <struct id="6" />
+              <struct id="7" />
+              <struct id="8" />
+            </struct>
+          </struct>
+          <struct id="18" />
+          <struct id="22">
+            <float id="0">1.5</float>
+            <set id="1" type="int32">
+              <int32>0</int32>
+              <int32>1</int32>
+            </set>
+          </struct>
+          <struct id="23" />
+        </struct>
+        <struct id="3">
+          <set id="0" type="int32">
+            <int32>0</int32>
+            <int32>3</int32>
+            <int32>4</int32>
+            <int32>5</int32>
+            <int32>8</int32>
+            <int32>9</int32>
+          </set>
+          <struct id="4">
+            <uint8 id="0">2</uint8>
+            <uint16 id="1">30</uint16>
+          </struct>
+          <struct id="5">
+            <uint8 id="0">2</uint8>
+            <uint16 id="1">120</uint16>
+          </struct>
+          <struct id="6">
+            <uint8 id="0">3</uint8>
+            <uint16 id="1">120</uint16>
+          </struct>
+          <struct id="7">
+            <uint8 id="0">3</uint8>
+            <uint16 id="1">120</uint16>
+          </struct>
+        </struct>
+        <struct id="4">
+          <set id="0" type="int32">
+            <int32>0</int32>
+            <int32>1</int32>
+            <int32>2</int32>
+            <int32>3</int32>
+            <int32>4</int32>
+            <int32>5</int32>
+            <int32>6</int32>
+            <int32>8</int32>
+            <int32>10</int32>
+          </set>
+          <struct id="1" />
+        </struct>
+        <struct id="5">
+          <list id="3" type="struct">
+            <struct>
+              <set id="0" type="int32">
+                <int32>0</int32>
+              </set>
+              <int32 id="1">-1</int32>
+              <int32 id="2">0</int32>
+              <uint32 id="4">4294967295</uint32>
+              <uint32 id="5">4294967295</uint32>
+              <uint32 id="6">4294967295</uint32>
+              <uint32 id="7">4294967295</uint32>
+              <int16 id="8">1</int16>
+              <struct id="9" />
+            </struct>
+            <struct>
+              <set id="0" type="int32">
+                <int32>0</int32>
+              </set>
+              <int32 id="1">-1</int32>
+              <int32 id="2">1</int32>
+              <uint32 id="4">4294967295</uint32>
+              <uint32 id="5">4294967295</uint32>
+              <uint32 id="6">4294967295</uint32>
+              <uint32 id="7">4294967295</uint32>
+              <int16 id="8">1</int16>
+              <struct id="9" />
+            </struct>
+            <struct>
+              <set id="0" type="int32">
+                <int32>0</int32>
+              </set>
+              <int32 id="1">-1</int32>
+              <int32 id="2">2</int32>
+              <uint32 id="4">4294967295</uint32>
+              <uint32 id="5">4294967295</uint32>
+              <uint32 id="6">4294967295</uint32>
+              <uint32 id="7">4294967295</uint32>
+              <int16 id="8">1</int16>
+              <struct id="9" />
+            </struct>
+            <struct>
+              <set id="0" type="int32">
+                <int32>0</int32>
+              </set>
+              <int32 id="1">-1</int32>
+              <int32 id="2">3</int32>
+              <uint32 id="4">4294967295</uint32>
+              <uint32 id="5">4294967295</uint32>
+              <uint32 id="6">4294967295</uint32>
+              <uint32 id="7">4294967295</uint32>
+              <int16 id="8">1</int16>
+              <struct id="9" />
+            </struct>
+            <struct>
+              <set id="0" type="int32">
+                <int32>0</int32>
+              </set>
+              <int32 id="1">-1</int32>
+              <int32 id="2">4</int32>
+              <uint32 id="4">4294967295</uint32>
+              <uint32 id="5">4294967295</uint32>
+              <uint32 id="6">4294967295</uint32>
+              <uint32 id="7">4294967295</uint32>
+              <int16 id="8">1</int16>
+              <struct id="9" />
+            </struct>
+            <struct>
+              <set id="0" type="int32">
+                <int32>0</int32>
+              </set>
+              <int32 id="1">-1</int32>
+              <int32 id="2">5</int32>
+              <uint32 id="4">4294967295</uint32>
+              <uint32 id="5">4294967295</uint32>
+              <uint32 id="6">4294967295</uint32>
+              <uint32 id="7">4294967295</uint32>
+              <int16 id="8">1</int16>
+              <struct id="9" />
+            </struct>
+            <struct>
+              <set id="0" type="int32">
+                <int32>0</int32>
+              </set>
+              <int32 id="1">-1</int32>
+              <int32 id="2">6</int32>
+              <uint32 id="4">4294967295</uint32>
+              <uint32 id="5">4294967295</uint32>
+              <uint32 id="6">4294967295</uint32>
+              <uint32 id="7">4294967295</uint32>
+              <int16 id="8">1</int16>
+              <struct id="9" />
+            </struct>
+            <struct>
+              <set id="0" type="int32">
+                <int32>0</int32>
+              </set>
+              <int32 id="1">-1</int32>
+              <int32 id="2">7</int32>
+              <uint32 id="4">4294967295</uint32>
+              <uint32 id="5">4294967295</uint32>
+              <uint32 id="6">4294967295</uint32>
+              <uint32 id="7">4294967295</uint32>
+              <int16 id="8">1</int16>
+              <struct id="9" />
+            </struct>
+          </list>
+        </struct>
+        <struct id="6" />
+        <struct id="7">
+          <struct id="23" />
+        </struct>
+        <struct id="9">
+          <set id="0" type="int32">
+            <int32>0</int32>
+            <int32>1</int32>
+            <int32>2</int32>
+          </set>
+        </struct>
+        <struct id="10">
+          <struct id="0">
+            <list id="0" type="struct">
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+            </list>
+            <list id="1" type="struct">
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+            </list>
+            <list id="2" type="struct">
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+            </list>
+            <list id="3" type="float">
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+            </list>
+            <list id="8" type="bool">
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+            </list>
+            <list id="9" type="float">
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+            </list>
+            <list id="10" type="float">
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+            </list>
+            <struct id="11">
+              <list id="4" type="int8">
+                <int8>-1</int8>
+                <int8>-1</int8>
+                <int8>-1</int8>
+                <int8>-1</int8>
+              </list>
+            </struct>
+            <list id="12" type="struct">
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+            </list>
+          </struct>
+          <struct id="1">
+            <list id="1" type="struct">
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+            </list>
+            <list id="2" type="float">
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+            </list>
+            <list id="5" type="bool">
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+            </list>
+            <list id="6" type="float">
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+            </list>
+            <list id="7" type="float">
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+            </list>
+            <struct id="8">
+              <list id="4" type="int8">
+                <int8>-1</int8>
+                <int8>-1</int8>
+                <int8>-1</int8>
+                <int8>-1</int8>
+              </list>
+            </struct>
+            <list id="9" type="struct">
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+            </list>
+          </struct>
+          <struct id="2">
+            <list id="0" type="struct">
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+                <list id="5" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+                <list id="5" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+                <list id="5" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+                <list id="5" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+                <list id="5" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+            </list>
+            <list id="1" type="struct">
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+                <list id="5" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+                <list id="5" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+                <list id="5" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+                <list id="5" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+                <list id="5" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+                <list id="5" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+                <list id="5" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+                <list id="5" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+                <list id="5" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+                <list id="5" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+                <list id="5" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+                <list id="5" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+                <list id="5" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+                <list id="5" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+              <struct>
+                <list id="4" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+                <list id="5" type="int8">
+                  <int8>-1</int8>
+                  <int8>-1</int8>
+                </list>
+              </struct>
+            </list>
+            <list id="2" type="float">
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+              <float>-1</float>
+            </list>
+            <list id="7" type="bool">
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+              <bool>false</bool>
+            </list>
+            <list id="8" type="float">
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+              <float>30</float>
+            </list>
+            <list id="9" type="float">
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+              <float>0</float>
+            </list>
+            <struct id="10">
+              <list id="4" type="int8">
+                <int8>-1</int8>
+                <int8>-1</int8>
+                <int8>-1</int8>
+                <int8>-1</int8>
+              </list>
+              <list id="5" type="int8">
+                <int8>-1</int8>
+                <int8>-1</int8>
+              </list>
+            </struct>
+          </struct>
+        </struct>
+      </struct>
+      <struct id="2">
+        <list id="2" type="struct">
+          <struct />
+          <struct />
+          <struct />
+          <struct />
+          <struct />
+          <struct />
+          <struct />
+          <struct />
+          <struct />
+        </list>
+        <struct id="10" />
+        <struct id="17" />
+        <list id="22" type="struct">
+          <struct>
+            <int32 id="0">-1</int32>
+            <int32 id="1">-1</int32>
+            <int32 id="2">-1</int32>
+          </struct>
+          <struct>
+            <int32 id="0">-1</int32>
+            <int32 id="1">-1</int32>
+            <int32 id="2">-1</int32>
+          </struct>
+          <struct>
+            <int32 id="0">-1</int32>
+            <int32 id="1">-1</int32>
+            <int32 id="2">-1</int32>
+          </struct>
+          <struct>
+            <int32 id="0">-1</int32>
+            <int32 id="1">-1</int32>
+            <int32 id="2">-1</int32>
+          </struct>
+          <struct>
+            <int32 id="0">-1</int32>
+            <int32 id="1">-1</int32>
+            <int32 id="2">-1</int32>
+          </struct>
+          <struct>
+            <int32 id="0">-1</int32>
+            <int32 id="1">-1</int32>
+            <int32 id="2">-1</int32>
+          </struct>
+          <struct>
+            <int32 id="0">-1</int32>
+            <int32 id="1">-1</int32>
+            <int32 id="2">-1</int32>
+          </struct>
+          <struct>
+            <int32 id="0">-1</int32>
+            <int32 id="1">-1</int32>
+            <int32 id="2">-1</int32>
+          </struct>
+        </list>
+        <list id="23" type="struct">
+          <struct>
+            <int32 id="0">-1</int32>
+            <int32 id="1">-1</int32>
+            <int32 id="2">-1</int32>
+          </struct>
+          <struct>
+            <int32 id="0">-1</int32>
+            <int32 id="1">-1</int32>
+            <int32 id="2">-1</int32>
+          </struct>
+          <struct>
+            <int32 id="0">-1</int32>
+            <int32 id="1">-1</int32>
+            <int32 id="2">-1</int32>
+          </struct>
+          <struct>
+            <int32 id="0">-1</int32>
+            <int32 id="1">-1</int32>
+            <int32 id="2">-1</int32>
+          </struct>
+          <struct>
+            <int32 id="0">-1</int32>
+            <int32 id="1">-1</int32>
+            <int32 id="2">-1</int32>
+          </struct>
+          <struct>
+            <int32 id="0">-1</int32>
+            <int32 id="1">-1</int32>
+            <int32 id="2">-1</int32>
+          </struct>
+          <struct>
+            <int32 id="0">-1</int32>
+            <int32 id="1">-1</int32>
+            <int32 id="2">-1</int32>
+          </struct>
+          <struct>
+            <int32 id="0">-1</int32>
+            <int32 id="1">-1</int32>
+            <int32 id="2">-1</int32>
+          </struct>
+        </list>
+        <struct id="28" />
+        <struct id="31" />
+        <struct id="32" />
+        <struct id="33" />
+        <struct id="34" />
+      </struct>
+      <struct id="3">
+        <struct id="0">
+          <struct id="0" />
+          <struct id="1" />
+        </struct>
+        <struct id="1">
+          <struct id="1" />
+        </struct>
+        <blob id="2" type="uint8">Empty.bin.luabundle</blob>
+        <struct id="9" />
+        <struct id="10" />
+        <struct id="19" />
+        <struct id="21">
+          <list id="0" type="struct">
+            <struct>
+              <uint32 id="0">1216646048</uint32>
+              <set id="7" type="int32">
+                <int32>0</int32>
+                <int32>1</int32>
+                <int32>3</int32>
+              </set>
+              <string id="15">Score</string>
+            </struct>
+            <struct>
+              <uint32 id="0">591030084</uint32>
+              <set id="7" type="int32">
+                <int32>0</int32>
+                <int32>1</int32>
+                <int32>3</int32>
+              </set>
+              <string id="15">RoundsWon</string>
+            </struct>
+            <struct>
+              <uint32 id="0">1289744714</uint32>
+              <set id="7" type="int32">
+                <int32>0</int32>
+                <int32>1</int32>
+                <int32>3</int32>
+              </set>
+              <string id="15">RoundsTied</string>
+            </struct>
+            <struct>
+              <uint32 id="0">3536170873</uint32>
+              <set id="7" type="int32">
+                <int32>0</int32>
+                <int32>1</int32>
+                <int32>3</int32>
+              </set>
+              <string id="15">PersonalScore</string>
+            </struct>
+          </list>
+        </struct>
+        <uint16 id="22">1</uint16>
+      </struct>
+      <struct id="4">
+        <bool id="1">false</bool>
+        <struct id="14" />
+        <struct id="44" />
+      </struct>
+      <struct id="5" />
+      <struct id="6">
+        <struct id="3" />
+      </struct>
+    </struct>
+  </list>
+</struct>
